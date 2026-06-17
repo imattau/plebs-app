@@ -6,8 +6,6 @@
 
 Plebs is a decentralized video platform built on the [Nostr](https://github.com/nostr-protocol/nostr) protocol with [Blossom](https://github.com/hzrd149/blossom) storage servers. Videos are stored across multiple servers, and creators maintain full control of their content and identity through Nostr keys.
 
-Visit the live application at [https://plebs.app](https://plebs.app)
-
 ## Features
 
 ### Core Features
